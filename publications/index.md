@@ -15,7 +15,8 @@ permalink: /publications/
       
 3.   **Tianyuan Zhang**†^, Jia Li†, Chao Tang†, You Wu†, Hao Wu†, Xi-Tong Zhu†, Ziyang Luo†, **Hang Qin**†, Lishan Ding†, Yu Zeng, Shiou Yih Lee, Xiaotao Shen, Shiwen Gao, Zhaoyang Tian, Qian Tang, Mian Li, Muhammad Tahir Ul Qamar, **Yang Dong**, Komivi Dossa, **Yaxuan Zhang**, Hu Chen^, Sanqi An^, Xiang Yu^, Lu Chen^, Dingjie Wang^, Shengli Li^, Ling-Ling Chen^, **Yanqiang Li**^. Nanopore Direct RNA Sequencing and the Epitranscriptome: Advances in Mapping Native RNA Landscapes. iMeta. http://doi.org/10.1002/imt2.70136  (2026)
 
-4.  Yang Yu†, Gaopeng Xian†, Shaila Saifee, Michael Trembley, Kulandaisamy Arulsamy, **Yanqiang Li**, Shenli Yuan, Min Chen, Yapeng Liu, Jiehui Chen, Yunxia Wang, Yi Wang, Rongbin Zheng, Xinlei Gao, Dean Li, Jiayi Chen, Ingeborg Friehs, Pedro del Nido, Stephen Sanders, Chrystalle Carreon, William Pu^, Kaifu Chen^, and Lili Zhang^. Spatial and single-nucleus multi-omics profiling reveals heterogeneous endothelial cell overabundance in endocardial fibroelastosis. Circulation.(Accepted, 2026)
+4.  Yang Yu†, Gaopeng Xian†, Shaila Saifee, Michael Trembley, Kulandaisamy Arulsamy, **Yanqiang Li**, Shenli Yuan, Min Chen, Yapeng Liu, Jiehui Chen, Yunxia Wang, Yi Wang, Rongbin Zheng, Xinlei Gao, Dean Li, Jiayi Chen, Ingeborg Friehs, Pedro del Nido, Stephen Sanders, Chrystalle Carreon, William Pu^, Kaifu Chen^, and Lili Zhang^. Spatial and single-nucleus multi-omics profiling reveals heterogeneous endothelial cell overabundance in endocardial fibroelastosis. Circulation 154, no. 8 (2026): 771-774 
+
 
 5. **Hang Qin**, **Yajie Qi**, **Yanqiang Li**†. **Adenosylhomocysteinase–adenosine complex links m6A and cancer lipid metabolism.** Trends in Biochemical Sciences.  10.1016/j.tibs.2026.02.016. (2026)
 
