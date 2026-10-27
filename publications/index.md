@@ -11,15 +11,13 @@ permalink: /publications/
 1. Zhi-Can Fu*,†, Yelian Yan†, Chunchun Wu, Ran Song, Xiaobo Wang, Jianfan Wei, Zhuangzhuang Lu, Tietuo Tao, Peng Lu, Wentao Cui, **Yanqiang Li**, Keliang Wu, Yong Chen*, Tao Huang*, Shenli Yuan * scTHREAD: a cell-resolved long-read transcriptome database with linked isoform, poly(A), junction, and allelic evidence. Nucleic Acids Research, 2026, gkag1038
 
 2. Zhi-Can Fu†, Chuanxin Zhang†, Yelian Yan, Yuxin Xu, Xiaoyu Yin, Tietuo Tao, Peng Lu, Yalin Liang, Haiyang Wu, Wentao Cui, Runtong Hou, Xuepeng Chen, Yuwen Ke, **Yanqiang Li^**, Zi-Jiang Chen^, Tao Huang^, Keliang Wu^, Shenli Yuan^. ANCHOR: haplotype-aware allelic and isoform inference from single-cell long-read RNA sequencing with de novo variant calling. (Preprint 2026). https://doi.org/10.64898/2026.06.08.730656
-        
-      
-3.   **Tianyuan Zhang**†^, Jia Li†, Chao Tang†, You Wu†, Hao Wu†, Xi-Tong Zhu†, Ziyang Luo†, **Hang Qin**†, Lishan Ding†, Yu Zeng, Shiou Yih Lee, Xiaotao Shen, Shiwen Gao, Zhaoyang Tian, Qian Tang, Mian Li, Muhammad Tahir Ul Qamar, **Yang Dong**, Komivi Dossa, **Yaxuan Zhang**, Hu Chen^, Sanqi An^, Xiang Yu^, Lu Chen^, Dingjie Wang^, Shengli Li^, Ling-Ling Chen^, **Yanqiang Li**^. Nanopore Direct RNA Sequencing and the Epitranscriptome: Advances in Mapping Native RNA Landscapes. iMeta. http://doi.org/10.1002/imt2.70136  (2026)
-
+            
+3.   **Tianyuan Zhang**†^, Jia Li†, Chao Tang†, You Wu†, Hao Wu†, Xi-Tong Zhu†, Ziyang Luo†, **Hang Qin**†, Lishan Ding†, Yu Zeng, Shiou Yih Lee, Xiaotao Shen, Shiwen Gao, Zhaoyang Tian, Qian Tang, Mian Li, Muhammad Tahir Ul Qamar, **Yang Dong**, Komivi Dossa, **Yaxuan Zhang**, Hu Chen^, Sanqi An^, Xiang Yu^, Lu Chen^, Dingjie Wang^, Shengli Li^, Ling-Ling Chen^, **Yanqiang Li**^. Nanopore Direct RNA Sequencing and the Epitranscriptome: Advances in Mapping Native RNA Landscapes. iMeta. http://doi.org/10.1002/imt2.70136   (2026)
+          
 4.  Yang Yu†, Gaopeng Xian†, Shaila Saifee, Michael Trembley, Kulandaisamy Arulsamy, **Yanqiang Li**, Shenli Yuan, Min Chen, Yapeng Liu, Jiehui Chen, Yunxia Wang, Yi Wang, Rongbin Zheng, Xinlei Gao, Dean Li, Jiayi Chen, Ingeborg Friehs, Pedro del Nido, Stephen Sanders, Chrystalle Carreon, William Pu^, Kaifu Chen^, and Lili Zhang^. Spatial and single-nucleus multi-omics profiling reveals heterogeneous endothelial cell overabundance in endocardial fibroelastosis. Circulation 154, no. 8 (2026): 771-774 
 
-
 5. **Hang Qin**, **Yajie Qi**, **Yanqiang Li**†. **Adenosylhomocysteinase–adenosine complex links m6A and cancer lipid metabolism.** Trends in Biochemical Sciences.  10.1016/j.tibs.2026.02.016. (2026)
-
+  
 6.  Yang Yi†, **Yanqiang Li**†, Rui Wang, Xufen Yu, Qi Liu, Chaehyun Yum, Yang Zhang, Yuanyuan Qiao, Aileen Szczepanski, Siqi Wu, Qiaqia Li, Ladan Fazli, Jiangchuan Shen, Xin Wang, Xiaoling Li, Ping Mu, Edward M. Schaeffer, Heather A. Hundley, Hengyao Niu, Arul M. Chinnaiyan, Lu Wang, Jinjun Shi, Jian Jin, Xuesen Dong, Wei Zhao, Kaifu Chen^, Qi Cao^. **A dual role of EZH2 in regulating A-to-I RNA editing and mRNA stability through ADAR.** Nature Communications 17,4421 (2026)
 
 7. Lei Li, Qi Ye, Jinlu Ma, Zixi Wang, Tianjie Liu, Yuzeshi Lei, Mingming Lu, Jialu Kang, Haohan Xiang, Buyun Li, Shan Xu, Ke Wang, Yule Chen, Jiaqi Chen, Bohan Ma, Wenyue Huang, Mengjiao Cai, Nan Wu, **Yanqiang Li**, Jiale An, Chongming Jiang, Rui Ye, Jing Liu, Steven H. Lin, Yang Gao, Jian Ma, Lei Li. Ubiquitination-directed cytosolic DNA degradation governs cGAS-STING-mediated immune response to DNA damage. Cancer Cell (2026)
