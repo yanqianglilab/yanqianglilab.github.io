@@ -8,7 +8,7 @@ permalink: /publications/
 
 ## Papers
 
-1. Zhi-Can Fu*,†, Yelian Yan†, Chunchun Wu, Ran Song, Xiaobo Wang, Jianfan Wei, Zhuangzhuang Lu, Tietuo Tao, Peng Lu, Wentao Cui, **Yanqiang Li**, Keliang Wu, Yong Chen*, Tao Huang*, Shenli Yuan * scTHREAD: a cell-resolved long-read transcriptome database with linked isoform, poly(A), junction, and allelic evidence. Nucleic Acids Research, 2026, gkag1038
+1. Zhi-Can Fu*,†, Yelian Yan†, Chunchun Wu, Ran Song, Xiaobo Wang, Jianfan Wei, Zhuangzhuang Lu, Tietuo Tao, Peng Lu, Wentao Cui, **Yanqiang Li**, Keliang Wu, Yong Chen^, Tao Huang^, Shenli Yuan^. scTHREAD: a cell-resolved long-read transcriptome database with linked isoform, poly(A), junction, and allelic evidence. Nucleic Acids Research, 2026, gkag1038
 
 2. Zhi-Can Fu†, Chuanxin Zhang†, Yelian Yan, Yuxin Xu, Xiaoyu Yin, Tietuo Tao, Peng Lu, Yalin Liang, Haiyang Wu, Wentao Cui, Runtong Hou, Xuepeng Chen, Yuwen Ke, **Yanqiang Li^**, Zi-Jiang Chen^, Tao Huang^, Keliang Wu^, Shenli Yuan^. ANCHOR: haplotype-aware allelic and isoform inference from single-cell long-read RNA sequencing with de novo variant calling. (Preprint 2026). https://doi.org/10.64898/2026.06.08.730656
             
